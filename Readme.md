@@ -33,5 +33,18 @@ PremierLeague/
 ```
 
 
+## Objectives
 
+Objectives of the project: 
+
+### Insights : 
+- Which teams have been the most consistent in their performance over the last 10 years?
+- Which teams have the most comebacks (wins after trailing)?
+- How does playing at home or away affect the results?
+
+### Visualizations :
+- A simple dashboard for teams performance
+
+### Models: 
+- Pronostic of goals in the current season
 

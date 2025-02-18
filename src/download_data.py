@@ -2,7 +2,7 @@ import kaggle
 import os
 
 #Setting the download path
-DATA_PATH = r"C:\Users\camilo.alvarez\Documents\TrainingDE\MiProyecto\data\raw"
+DATA_PATH = r"C:\Users\camilo.alvarez\Documents\TrainingDE\PremierLeague\data\raw"
 os.makedirs(DATA_PATH, exist_ok= True)
 
 # Descargar el dataset en el directorio actual
